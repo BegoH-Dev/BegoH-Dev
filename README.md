@@ -1,6 +1,14 @@
-# 👋 Hola, soy BegoH-Dev
+# 👋 Hi, I'm BegoH-Dev
 
-## 🚀 Tecnologías
+# 👩‍💻 About Me
+
+Junior Web Developer based in Seville, Spain, with hands-on experience building real-world web applications using React, Next.js, and Node.js. I have worked in a team environment developing a corporate web application, following good development practices, version control, documentation, and deployment preparation.
+
+I enjoy creating responsive, accessible, and scalable user interfaces, and I’m continuously expanding my skills in both frontend and backend development. I’m especially interested in modern JavaScript ecosystems, clean code, and learning through practical projects.
+
+Currently looking to grow as a Frontend or Full Stack Developer, contributing to meaningful projects while continuing to learn and improve every day.
+
+## 💻 Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
